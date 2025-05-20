@@ -12,8 +12,8 @@ To set up and launch an Amazon EC2 instance, providing on-demand computing servi
 7. **Monitor Instance State**: Track instance states (running, stopped, terminated) and utilize AWS CloudWatch for performance monitoring.
 
 ---
-### Name: paida ram sai
-### Reg no: 212223110034
+### Name: Malyadri reddy N
+### Reg no: 212223100037
 ## **Instructions**
 
 ### Step 1: Log into AWS Account
