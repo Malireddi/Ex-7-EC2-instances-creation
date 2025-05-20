@@ -1,8 +1,7 @@
-# Ex-04 EC2 Instance Creation
+# Ex-04-EC2 Instance Creation
 
 ## **Aim**
 To set up and launch an Amazon EC2 instance, providing on-demand computing services with flexible configurations for application deployment.
-
 ## **Objectives**
 1. **Log into AWS**: Access the AWS Management Console to create and manage resources.
 2. **Launch EC2 Instance**: Configure the required instance parameters, including OS, storage, instance type, and network settings.
@@ -13,7 +12,8 @@ To set up and launch an Amazon EC2 instance, providing on-demand computing servi
 7. **Monitor Instance State**: Track instance states (running, stopped, terminated) and utilize AWS CloudWatch for performance monitoring.
 
 ---
-
+### Name: paida ram sai
+### Reg no: 212223110034
 ## **Instructions**
 
 ### Step 1: Log into AWS Account
